@@ -1,4 +1,4 @@
-fixed acidity,volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,pH,sulphates,alcohol,quality
+fixed acidity;volatile acidity;citric acid;residual sugar;chlorides;free sulfur dioxide;total sulfur dioxide;density;pH;sulphates;alcohol;quality
 7.Nis;0.7;0;1.Eyl;0.076;11;34;0.9978;Mar.51;0.56;9.Nis;5
 7.Aðu;0.88;0;2.Haz;0.098;25;67;0.9968;3.Þub;0.68;9.Aðu;5
 7.Aðu;0.76;0.04;2.Mar;0.092;15;54;0.997;Mar.26;0.65;9.Aðu;5
